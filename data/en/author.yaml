@@ -1,6 +1,6 @@
 # some information about you
 name: "Patrick Meier"
-# nickname: "pii"
+nickname: "Patrick"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hi, I am"
 image: "images/author/patrick.png"
