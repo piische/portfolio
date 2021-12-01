@@ -1,0 +1,26 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+  - name: Angular
+    logo: "/images/sections/skills/angular.png"
+    summary: "Capable of deploying fullstack web apps using the MEAN stack and Angular in particular."
+    url: "https://angular.io/"
+
+  - name: Docker
+    logo: "/images/sections/skills/docker.png"
+    summary: "Using Docker to deploy software solutions in a scalable manner"
+    url: "https://docker.com/"
+
+  - name: MongoDB
+    logo: "/images/sections/skills/mongo.png"
+    summary: "Worked with MongoDB to provide object oriented databases in a fullstack environment"
