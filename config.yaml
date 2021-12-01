@@ -1,5 +1,4 @@
-baseURL: https://hugo-toha.github.io
-# baseURL: https://patrickmeier.info
+baseURL: https://patrickmeier.info
 
 languageCode: en-us
 title: "Patrick Meier's Blog"
