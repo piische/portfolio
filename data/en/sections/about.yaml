@@ -15,7 +15,7 @@ company:
   url: "https://www.fhnw.ch"
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/resume.pdf"
+resume: "files/cv_scientific_portfolio.pdf"
 
 # a summary about you
 summary: "My research focuses on the development of software applications for the analysis of health data. I am currently implementing Personalis, a personalized medical health platform for the diagnosis of autoimmune diseases by applying machine learning models to various types of medical and molecular datasets."

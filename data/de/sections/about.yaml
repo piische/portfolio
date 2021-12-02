@@ -15,7 +15,7 @@ company:
   url: "https://www.fhnw.ch"
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/resume.pdf"
+resume: "files/cv_scientific_portfolio.pdf"
 
 # a summary about you
 summary: "Meine Forschung konzentriert sich auf die Entwicklung von Softwareanwendungen für die Analyse von Gesundheitsdaten. Derzeit implementiere ich Personalis, eine personalisierte medizinische Gesundheitsplattform für die Diagnose von Autoimmunkrankheiten durch Anwendung von Modellen des maschinellen Lernens auf verschiedene Arten von medizinischen und molekularen Datensätzen."
