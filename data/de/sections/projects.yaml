@@ -1,0 +1,49 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+  - name: All
+    filter: "all"
+  - name: Gesundheit
+    filter: "health"
+  - name: Akademisch
+    filter: "academic"
+  - name: Data Science
+    filter: "datascience"
+
+# your projects
+projects:
+  - name: PERSONALIS
+    logo: /images/sections/projects/personalis_logo.png
+    role: Projektleitung
+    timeline: "Aug 2020 - Present"
+    # repo:  # If your project is a public repo on GitHub, then provide this link. it will show star count.
+    url: "https://personalis.unistra.fr/de/" # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+    summary: PERSONALIS, ein klinisches Entscheidungshilfesystem, das darauf abzielt, komplexe Autoimmunerkrankungen durch die Anwendung von Modellen des maschinellen Lernens auf verschiedene Arten von medizinischen und molekularen Datensätzen für die Diagnose und Behandlung zu entschlüsseln.
+    tags: ["health", "academic", "datascience"]
+
+  - name: Augmented reality tracking application
+    logo: /images/sections/projects/hololens.jpg
+    role: Projektleitung
+    timeline: "Dec 2019 - Jan 2020"
+    # repo:  # If your project is a public repo on GitHub, then provide this link. it will show star count.
+    # url: "https://personalis.unistra.fr/de/" # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+    summary: In C\# geschriebene Microsoft Hololens-Anwendung unter Verwendung von Unity und Vuforia zur Erkennung von Arzneimittelverpackungen, die die zugehörigen Inhaltsstoffe und die entsprechenden Moleküle in 3D darstellen kann. Mobile Lösung für Android und iOS, um eine spielerische Interaktion mit pharmazeutischen Produkten zu ermöglichen.
+    tags: ["health", "academic"]
+
+  - name: Medical image application
+    logo: /images/sections/projects/vue.png
+    role: Software Entwickler
+    timeline: "2019"
+    # repo:  # If your project is a public repo on GitHub, then provide this link. it will show star count.
+    # url: "https://personalis.unistra.fr/de/" # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+    summary: Entwicklung einer Krankenhausarchitektur für die Analyse von Bilddaten aus medizinischen Diagnosebildern. Full-Stack-Lösung mit der Möglichkeit, Ergebnisse nach bestimmten Kriterien oder mit Hilfe von Tags zu filtern. Die App wurde mit TypeScript, Vue.js, Node, Docker \& PACS Server entwickelt.
+    tags: ["health", "academic"]

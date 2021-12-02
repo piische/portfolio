@@ -1,0 +1,28 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your experiences
+experiences:
+  - company:
+      name: FHNW
+      url: "https://www.fhnw.ch"
+      location: Muttenz
+      # company overview
+      overview: FHNW School of Life Sciences. FHNW University of Applied Sciences and Arts Northwestern Switzerland
+    positions:
+      - designation: Scientific Assistant | Software Developer
+        start: Aug 2020
+        # don't provide end date if you are currently working there. It will be replaced by "Present"
+        # end: Dec 2020
+        # give some points about what was your responsibilities at the company.
+        responsibilities:
+          - Full-Stack software development
+          - Lead in personalized health project PERSONALIS
+          - Data Science using heterogeneous data from collaborators
