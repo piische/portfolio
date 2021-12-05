@@ -26,3 +26,54 @@ experiences:
           - Full-Stack software development
           - Lead in personalized health project PERSONALIS
           - Data Science using heterogeneous data from collaborators
+  - company:
+      name: Kilchenmann AG
+      url: "https://www.kilchenmann.ch"
+      location: Arlesheim
+      # company overview
+      overview: Professional telecommunication and multimedia systems
+    positions:
+      - designation: Multimedia electrician
+        start: 2016
+        end: 2017
+        # don't provide end date if you are currently working there. It will be replaced by "Present"
+        # end: Dec 2020
+        # give some points about what was your responsibilities at the company.
+        responsibilities:
+          - Installation and maintenance of videoconferencing systems
+          - Rack building and server based systems
+          - Sound systems and large screen projections
+  - company:
+      name: Edi Blatter AG
+      url: "https://www.ediblatter.ch"
+      location: Basel
+      # company overview
+      overview: High-class Bang & Olufsen multimedia systems
+    positions:
+      - designation: Multimedia electrician
+        start: 2012
+        end: 2014
+        # don't provide end date if you are currently working there. It will be replaced by "Present"
+        # end: Dec 2020
+        # give some points about what was your responsibilities at the company.
+        responsibilities:
+          - Installation and maintenance of Bang & Olufsen systems
+          - Project planning AV solutions
+          - Sales and independent order processing
+  - company:
+      name: Glanzmann Multimedia AG
+      #url: "https://www.ediblatter.ch"
+      location: Allschwil
+      # company overview
+      overview: Multimedia systems
+    positions:
+      - designation: Multimedia electrician
+        start: 2011
+        end: 2012
+        # don't provide end date if you are currently working there. It will be replaced by "Present"
+        # end: Dec 2020
+        # give some points about what was your responsibilities at the company.
+        responsibilities:
+          - Installation and maintenance of Audio Video systems
+          - Project planning AV solutions
+          - Sales and independent order processing
