@@ -31,12 +31,15 @@ socialLinks:
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
-  - name: Teamwork
+  - name: Team player
     percentage: 85
     color: blue
-  - name: Problem-solving
+  - name: Goal-oriented
     percentage: 90
     color: yellow
-  - name: Adaptability
+  - name: Adaptable
     percentage: 90
     color: green
+  - name: Versatile
+    percentage: 95
+    color: orange

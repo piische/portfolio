@@ -26,3 +26,71 @@ experiences:
           - Full-Stack Software Entwicklung
           - Leitung des Projekts zur personalisierten Gesundheit PERSONALIS
           - Anwendung von Data Science auf heterogene Daten
+  - company:
+      name: Kilchenmann AG
+      url: "https://www.kilchenmann.ch"
+      location: Arlesheim
+      # company overview
+      overview: Professionelle Telekommunikations- und Multimediasysteme
+    positions:
+      - designation: Multimedia Elektroniker
+        start: 2016
+        end: 2017
+        # don't provide end date if you are currently working there. It will be replaced by "Present"
+        # end: Dec 2020
+        # give some points about what was your responsibilities at the company.
+        responsibilities:
+          - Installation und Wartung von Videokonferenzsystemen
+          - Rackbau und serverbasierte Systeme
+          - Beschallungssysteme und Großbildprojektionen
+  - company:
+      name: Edi Blatter AG
+      url: "https://www.ediblatter.ch"
+      location: Basel
+      # company overview
+      overview: Hochwertige Bang & Olufsen Multimedia-Systeme
+    positions:
+      - designation: Multimedia Elektroniker
+        start: 2012
+        end: 2014
+        # don't provide end date if you are currently working there. It will be replaced by "Present"
+        # end: Dec 2020
+        # give some points about what was your responsibilities at the company.
+        responsibilities:
+          - Installation und Wartung von Bang & Olufsen Systemen
+          - Projektierung von AV-Lösungen
+          - Vertrieb und eigenständige Auftragsabwicklung
+  - company:
+      name: Glanzmann Multimedia AG
+      #url: "https://www.ediblatter.ch"
+      location: Allschwil
+      # company overview
+      overview: Multimedia Systeme
+    positions:
+      - designation: Multimedia Elektroniker
+        start: 2011
+        end: 2012
+        # don't provide end date if you are currently working there. It will be replaced by "Present"
+        # end: Dec 2020
+        # give some points about what was your responsibilities at the company.
+        responsibilities:
+          - Installation und Wartung von Audio-Video-Systemen
+          - Projektierung von AV-Lösungen
+          - Vertrieb und unabhängige Auftragsabwicklung
+  - company:
+      name: Glanzmann Multimedia AG
+      #url: "https://www.ediblatter.ch"
+      location: Allschwil
+      # company overview
+      overview: Multimedia Systeme
+    positions:
+      - designation: Lehre als Multimedia Elektroniker EFZ
+        start: 2007
+        end: 2011
+        # don't provide end date if you are currently working there. It will be replaced by "Present"
+        # end: Dec 2020
+        # give some points about what was your responsibilities at the company.
+        responsibilities:
+          - Installation und Wartung von Audio-Video-Systemen
+          - Projektierung von AV-Lösungen
+          - Vertrieb und unabhängige Auftragsabwicklung

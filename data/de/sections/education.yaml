@@ -1,0 +1,53 @@
+# section information
+section:
+  name: Ausbildung
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+degrees:
+  - name: MSc. in Medical Informatics
+    icon: fa-graduation-cap
+    timeframe: 2021-2024
+    institution:
+      name: Fachhochschule Nordwestschweiz FHNW
+      url: "#"
+    # grade: #(optional)
+    #  scale: Note
+    #  achieved: #
+    #  outOf: #
+    takenCourses: #(optional)
+      # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+      showGrades: false
+      courses:
+        - name: Digital Transformation in Healthcare
+        - name: BioMedical Data Science
+        - name: Medical Software Development
+        - name: Digitalization of Business Processes
+        - name: Artificial Intelligence in Drug Discovery
+        - name: Applied Computational Intelligence
+        - name: Innovation Trends in Medical Informatics
+  - name: BSc. in Life Science Technologies | Medical IT
+    icon: fa-graduation-cap
+    timeframe: 2017-2020
+    institution:
+      name: Fachhochschule Nordwestschweiz FHNW
+      url: "#"
+    grade: #(optional)
+      scale: Note
+      achieved: 5.5
+      outOf: 6
+    takenCourses: #(optional)
+      # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+      showGrades: false
+      courses:
+        - name: Data Science
+        - name: Software Entwicklung
+        - name: Visualisierung und Benutzerinteraktion
+        - name: Bildgebende Verfahren
+        - name: Medizinische Informationssysteme
+        - name: Bioinformatik
+        - name: Management

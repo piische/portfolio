@@ -75,5 +75,22 @@ experiences:
         # give some points about what was your responsibilities at the company.
         responsibilities:
           - Installation and maintenance of Audio Video systems
-          - Project planning AV solutions
+          - Project planning for AV solutions
+          - Sales and independent order processing
+  - company:
+      name: Glanzmann Multimedia AG
+      #url: "https://www.ediblatter.ch"
+      location: Allschwil
+      # company overview
+      overview: Multimedia systems
+    positions:
+      - designation: Apprenticeship as a multimedia electrician
+        start: 2007
+        end: 2011
+        # don't provide end date if you are currently working there. It will be replaced by "Present"
+        # end: Dec 2020
+        # give some points about what was your responsibilities at the company.
+        responsibilities:
+          - Installation and maintenance of Audio Video systems
+          - Project planning for AV solutions
           - Sales and independent order processing
