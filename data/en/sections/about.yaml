@@ -43,3 +43,9 @@ softSkills:
   - name: Versatile
     percentage: 95
     color: orange
+  - name: Fast-learner
+    percentage: 95
+    color: lightblue
+  - name: Communicat
+    percentage: 95
+    color: pink

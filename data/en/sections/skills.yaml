@@ -11,16 +11,28 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
+  - name: Linux
+    logo: "images/sections/skills/tux.png"
+    summary: "Using Linux as the main operating system. Competent in writing bash/shell scripts."
+
+  - name: Python
+    logo: "images/sections/skills/python.svg"
+    summary: "Skilled with Python scripts, data processing, data analysis, and the application of machine learning methods."
+
   - name: Angular
-    logo: "/images/sections/skills/angular.png"
-    summary: "Capable of deploying fullstack web apps using the MEAN stack and Angular in particular."
+    logo: "images/sections/skills/angular.png"
+    summary: "Capable of deploying fullstack web apps using the MEAN stack with Angular in particular."
     url: "https://angular.io/"
 
   - name: Docker
-    logo: "/images/sections/skills/docker.png"
-    summary: "Using Docker to deploy software solutions in a scalable manner"
+    logo: "images/sections/skills/docker.png"
+    summary: "Using Docker to deploy software solutions in a scalable manner."
     url: "https://docker.com/"
 
   - name: MongoDB
-    logo: "/images/sections/skills/mongo.png"
-    summary: "Worked with MongoDB to provide object oriented databases in a fullstack environment"
+    logo: "images/sections/skills/mongo.png"
+    summary: "Worked with MongoDB to provide object oriented databases in a fullstack environment."
+
+  - name: Git
+    logo: "images/sections/skills/git.png"
+    summary: "Experienced with git-based development and CI/CD."

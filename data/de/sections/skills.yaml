@@ -11,6 +11,14 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
+  - name: Linux
+    logo: "images/sections/skills/tux.png"
+    summary: "Verwendung von Linux als Hauptbetriebssystem. Erfahren im Schreiben von Bash-/Shell-Skripten."
+
+  - name: Python
+    logo: "images/sections/skills/python.svg"
+    summary: "Erfahrung mit Python Scripts, Datenverarbeitung und -Analyse und der Anwendung von Methoden des maschinellen Lernens."
+
   - name: Angular
     logo: "/images/sections/skills/angular.png"
     summary: "Fähigkeit zur Bereitstellung von Fullstack-Webanwendungen unter Verwendung des MEAN-Stacks und insbesondere von Angular"
@@ -24,3 +32,7 @@ skills:
   - name: MongoDB
     logo: "/images/sections/skills/mongo.png"
     summary: "Erfahrung mit objektorientierten Datenbanken wie MongoDB, für die Bereitstellung einer flexiblen und skalierbaren Datenbank in einer Fullstack-Umgebung"
+
+  - name: Git
+    logo: "images/sections/skills/git.png"
+    summary: "Experienced with git-based development and CI/CD."
