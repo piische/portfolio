@@ -42,3 +42,9 @@ softSkills:
   - name: Vielseitig
     percentage: 95
     color: orange
+  - name: Lernfähig
+    percentage: 95
+    color: sky
+  - name: Kommunikation
+    percentage: 95
+    color: pink
