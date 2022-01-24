@@ -16,7 +16,7 @@ accomplishments:
       name: Swiss Institute of Bioinformatics SIB
       url: https://www.sib.swiss
     courseOverview: "Basic knowledge of the Linux/UNIX environment and high throughput and high performance computing. Usage of the sciCORE infrastructure for scientific applications (including hands-on exercises). Effective and efficient cluster usage."
-    certificateURL: "files/introduction_sciCORE_SIB.pdf"
+    certificateURL: files/introduction_sciCORE_SIB.pdf
 
   - name: Intermediate Python
     timeline: "May 2021 - May 2021"
@@ -24,4 +24,4 @@ accomplishments:
       name: Swiss Institute of Bioinformatics SIB
       url: https://www.sib.swiss
     courseOverview: "Parsing, transforming, and exploring data using pandas. Performing statistical simulation and testing with numpy/scipy. Representing data in an efficient and impactful manner using seaborn. Speeding-up your Python code with numba and more."
-    certificateURL: "files/advanced_python_SIB.pdf"
+    certificateURL: files/advanced_python_SIB.pdf
