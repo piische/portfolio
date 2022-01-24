@@ -21,6 +21,14 @@ buttons:
 
 # your projects
 projects:
+  - name: Academic paper
+    logo: /images/sections/projects/frontiers.png
+    timeline: "Oct 2021"
+    # repo:  # If your project is a public repo on GitHub, then provide this link. it will show star count.
+    url: "https://doi.org/10.3389/frai.2021.715462" # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+    summary: Machine Learning Detects Anti-DENV Signatures in Antibody Repertoire Sequences
+    tags: ["health", "academic"]
+
   - name: PERSONALIS
     logo: /images/sections/projects/personalis_logo.png
     role: Lead in Project

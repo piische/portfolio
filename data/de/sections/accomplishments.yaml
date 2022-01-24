@@ -1,0 +1,27 @@
+# section information
+section:
+  name: Kurse
+  id: accomplishments
+  enable: true
+  weight: 7
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your accomplishments
+accomplishments:
+  - name: sciCORE linux and cluster introduction
+    timeline: "Jun 2021 - Jun 2021"
+    organization:
+      name: Swiss Institute of Bioinformatics SIB
+      url: https://www.sib.swiss
+    courseOverview: "Grundlegende Kenntnisse der Linux/UNIX-Umgebung und des High Throughput und High Performance Computing. Nutzung der sciCORE-Infrastruktur für wissenschaftliche Anwendungen (einschließlich praktischer Übungen). Effektive und effiziente Nutzung von Clustern."
+    certificateURL: "files/introduction_sciCORE_SIB.pdf"
+
+  - name: Intermediate Python
+    timeline: "May 2021 - May 2021"
+    organization:
+      name: Swiss Institute of Bioinformatics SIB
+      url: https://www.sib.swiss
+    courseOverview: "Analysieren, Umwandeln und Erforschen von Daten mit Pandas. Durchführen von statistischen Simulationen und Tests mit Numpy/Scipy. Effiziente und aussagekräftige Darstellung von Daten mit seaborn. Beschleunigung Ihres Python-Codes mit numba und mehr."
+    certificateURL: "files/advanced_python_SIB.pdf"
