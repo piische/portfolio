@@ -10,8 +10,16 @@ section:
 
 # Your accomplishments
 accomplishments:
+  - name: Immunoinformatics
+    timeline: "Jan 2021"
+    organization:
+      name: Swiss Institute of Bioinformatics SIB
+      url: https://www.sib.swiss
+    courseOverview: "Next-Generation Sequencing (NGS) von Antikörperrepertoires. Hintergrund, Generierung von Diversität, derzeit verwendete Sequenzierungstechnologien und praktische Übungen zu den für die NGS-Datenanalyse verfügbaren computergestützten Tools. Vorverarbeitung und Analyse von Daten unter Verwendung der Programmierplattformen R und Python zusammen mit bestehenden Bioinformatik-Pipelines. Repertoire-Analyse zur statistischen Quantifizierung und Visualisierung von hochdimensionalen Daten."
+    certificateURL: ../files/immunoinformatics_SIB.pdf
+
   - name: sciCORE linux and cluster introduction
-    timeline: "Jun 2021 - Jun 2021"
+    timeline: "Jun 2021"
     organization:
       name: Swiss Institute of Bioinformatics SIB
       url: https://www.sib.swiss
@@ -19,7 +27,7 @@ accomplishments:
     certificateURL: ../files/introduction_sciCORE_SIB.pdf
 
   - name: Intermediate Python
-    timeline: "May 2021 - May 2021"
+    timeline: "Mai 2021"
     organization:
       name: Swiss Institute of Bioinformatics SIB
       url: https://www.sib.swiss
