@@ -13,26 +13,42 @@ section:
 skills:
   - name: Linux
     logo: "images/sections/skills/tux.png"
-    summary: "Using Linux as the main operating system. Competent in writing bash/shell scripts."
+    summary: "Using Linux as main operating system. Experienced in writing bash/shell scripts."
 
   - name: Python
     logo: "images/sections/skills/python.svg"
-    summary: "Skilled with Python scripts, data processing, data analysis, and the application of machine learning methods."
+    summary: "Very familiar with Python scripts, data processing and analysis, and the use of machine learning methods."
+
+  - name: Java
+    logo: "images/sections/skills/java.png"
+    summary: "Skills in developing software solutions using Java as well as JavaFX."
 
   - name: Angular
-    logo: "images/sections/skills/angular.png"
-    summary: "Capable of deploying fullstack web apps using the MEAN stack with Angular in particular."
+    logo: "/images/sections/skills/angular.png"
+    summary: "Ability to deploy fullstack web applications using the MEAN stack and Angular in particular"
     url: "https://angular.io/"
 
+  - name: Spring Boot
+    logo: "/images/sections/skills/springboot.png"
+    summary: "Experienced in using Spring Boot to deliver MVC solutions"
+    url: "https://spring.io/"
+
   - name: Docker
-    logo: "images/sections/skills/docker.png"
-    summary: "Using Docker to deploy software solutions in a scalable manner."
+    logo: "/images/sections/skills/docker.png"
+    summary: "Very Experienced with using Docker as well as docker-compose to deploy software solutions at scale"
     url: "https://docker.com/"
 
   - name: MongoDB
-    logo: "images/sections/skills/mongo.png"
-    summary: "Worked with MongoDB to provide object oriented databases in a fullstack environment."
+    logo: "/images/sections/skills/mongo.png"
+    summary: "Experienced with object-oriented databases like MongoDB, for delivering a flexible and scalable database in a fullstack environment"
+    url: "https://mongodb.com"
+
+  - name: MySQL
+    logo: "/images/sections/skills/mysql.png"
+    summary: "Familiar with relational database solutions"
+    url: "https://mysql.com"
 
   - name: Git
     logo: "images/sections/skills/git.png"
-    summary: "Experienced with git-based development and CI/CD."
+    summary: "Great experience with GIT version control as well as using CI/CD."
+    url: "https://git-scm.com"

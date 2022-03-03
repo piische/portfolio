@@ -38,6 +38,15 @@ projects:
     summary: PERSONALIS, a clinical decision support system aimed to demultiplex complex autoimmune diseases by applying machine learning models to various types of medical and molecular datasets for the diagnosis and treatment.
     tags: ["health", "academic", "datascience"]
 
+  - name: cDR3AM
+    logo: /images/sections/projects/cdr3am.png
+    role: Lead in Project
+    timeline: "Jan 2022 - Present"
+    # repo:  # If your project is a public repo on GitHub, then provide this link. it will show star count.
+    # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+    summary: A curated Database of immune repertoires and metadata in the AIRR format annotated using IgBLAST .
+    tags: ["health", "academic"]
+
   - name: Augmented reality tracking application
     logo: /images/sections/projects/hololens.jpg
     role: Lead in Project

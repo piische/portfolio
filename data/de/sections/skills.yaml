@@ -17,22 +17,38 @@ skills:
 
   - name: Python
     logo: "images/sections/skills/python.svg"
-    summary: "Erfahrung mit Python Scripts, Datenverarbeitung und -Analyse und der Anwendung von Methoden des maschinellen Lernens."
+    summary: "Sehr vertraut mit Python Scripts, Datenverarbeitung und -Analyse und der Anwendung von Methoden des maschinellen Lernens."
+
+  - name: Java
+    logo: "images/sections/skills/java.png"
+    summary: "Kenntnisse in der Entwicklung von Softwarelösungen mittels Java sowie JavaFX"
 
   - name: Angular
     logo: "/images/sections/skills/angular.png"
     summary: "Fähigkeit zur Bereitstellung von Fullstack-Webanwendungen unter Verwendung des MEAN-Stacks und insbesondere von Angular"
     url: "https://angular.io/"
 
+  - name: Spring Boot
+    logo: "/images/sections/skills/springboot.png"
+    summary: "Erfahren in der Anwendung von Spring Boot zur Bereitstellung von MVC Lösungen"
+    url: "https://spring.io/"
+
   - name: Docker
     logo: "/images/sections/skills/docker.png"
-    summary: "Einsatz von Docker zur skalierbaren Bereitstellung von Softwarelösungen"
+    summary: "Sehr Erfahren mit dem Einsatz von Docker sowie docker-compose zur skalierbaren Bereitstellung von Softwarelösungen"
     url: "https://docker.com/"
 
   - name: MongoDB
     logo: "/images/sections/skills/mongo.png"
-    summary: "Erfahrung mit objektorientierten Datenbanken wie MongoDB, für die Bereitstellung einer flexiblen und skalierbaren Datenbank in einer Fullstack-Umgebung"
+    summary: "Erfahren mit objektorientierten Datenbanken wie MongoDB, für die Bereitstellung einer flexiblen und skalierbaren Datenbank in einer Fullstack-Umgebung"
+    url: "https://mongodb.com"
+
+  - name: MySQL
+    logo: "/images/sections/skills/mysql.png"
+    summary: "Vertraut mit relationalen Datenbank Lösungen"
+    url: "https://mysql.com"
 
   - name: Git
     logo: "images/sections/skills/git.png"
-    summary: "Experienced with git-based development and CI/CD."
+    summary: "Grosse Erfahrung mit GIT Versionskontrolle sowie dem Einsatz von CI/CD."
+    url: "https://git-scm.com"
