@@ -12,43 +12,57 @@ section:
 # Give a summary of you each skill in the summary section.
 skills:
   - name: Linux
-    logo: "images/sections/skills/tux.png"
-    summary: "Using Linux as main operating system. Experienced in writing bash/shell scripts."
+    logo: 'images/sections/skills/tux.png'
+    summary: 'Using Linux as main operating system. Experienced in writing bash/shell scripts.'
 
   - name: Python
-    logo: "images/sections/skills/python.svg"
-    summary: "Very familiar with Python scripts, data processing and analysis, and the use of machine learning methods."
+    logo: 'images/sections/skills/python.svg'
+    summary: 'Very familiar with Python scripts, data processing and analysis, and the use of machine learning methods.'
 
   - name: Java
-    logo: "images/sections/skills/java.png"
-    summary: "Skills in developing software solutions using Java as well as JavaFX."
+    logo: 'images/sections/skills/java.png'
+    summary: 'Skills in developing software solutions using Java as well as JavaFX.'
+
+  - name: C#
+    logo: 'images/sections/skills/csharp.png'
+    summary: 'Experienced in using C# scripts in Unity applications for the development of mobile apps and virtual reality applications'
 
   - name: Angular
-    logo: "/images/sections/skills/angular.png"
-    summary: "Ability to deploy fullstack web applications using the MEAN stack and Angular in particular"
-    url: "https://angular.io/"
+    logo: '/images/sections/skills/angular.png'
+    summary: 'Ability to deploy fullstack web applications using the MEAN stack and Angular in particular'
+    url: 'https://angular.io/'
+
+  - name: React
+    logo: '/images/sections/skills/react.svg'
+    summary: 'Experienced in using React as a frontend as well as in MVC solutions in the MERN stack'
+    url: 'https://reactjs.org/'
+
+  - name: Vue
+    logo: '/images/sections/skills/vue.png'
+    summary: 'Familiar with the Vue Framework as a frontend application'
+    url: 'https://vuejs.org/'
 
   - name: Spring Boot
-    logo: "/images/sections/skills/springboot.png"
-    summary: "Experienced in using Spring Boot to deliver MVC solutions"
-    url: "https://spring.io/"
+    logo: '/images/sections/skills/springboot.png'
+    summary: 'Experienced in using Spring Boot to deliver MVC solutions'
+    url: 'https://spring.io/'
 
   - name: Docker
-    logo: "/images/sections/skills/docker.png"
-    summary: "Very Experienced with using Docker as well as docker-compose to deploy software solutions at scale"
-    url: "https://docker.com/"
+    logo: '/images/sections/skills/docker.png'
+    summary: 'Very Experienced with using Docker as well as docker-compose to deploy software solutions at scale'
+    url: 'https://docker.com/'
 
   - name: MongoDB
-    logo: "/images/sections/skills/mongo.png"
-    summary: "Experienced with object-oriented databases like MongoDB, for delivering a flexible and scalable database in a fullstack environment"
-    url: "https://mongodb.com"
+    logo: '/images/sections/skills/mongo.png'
+    summary: 'Experienced with object-oriented databases like MongoDB, for delivering a flexible and scalable database in a fullstack environment'
+    url: 'https://mongodb.com'
 
   - name: MySQL
-    logo: "/images/sections/skills/mysql.png"
-    summary: "Familiar with relational database solutions"
-    url: "https://mysql.com"
+    logo: '/images/sections/skills/mysql.png'
+    summary: 'Familiar with relational database solutions'
+    url: 'https://mysql.com'
 
   - name: Git
-    logo: "images/sections/skills/git.png"
-    summary: "Great experience with GIT version control as well as using CI/CD."
-    url: "https://git-scm.com"
+    logo: 'images/sections/skills/git.png'
+    summary: 'Great experience with GIT version control as well as using CI/CD.'
+    url: 'https://git-scm.com'

@@ -12,43 +12,57 @@ section:
 # Give a summary of you each skill in the summary section.
 skills:
   - name: Linux
-    logo: "images/sections/skills/tux.png"
-    summary: "Verwendung von Linux als Hauptbetriebssystem. Erfahren im Schreiben von Bash-/Shell-Skripten."
+    logo: 'images/sections/skills/tux.png'
+    summary: 'Verwendung von Linux als Hauptbetriebssystem. Erfahren im Schreiben von Bash-/Shell-Skripten.'
 
   - name: Python
-    logo: "images/sections/skills/python.svg"
-    summary: "Sehr vertraut mit Python Scripts, Datenverarbeitung und -Analyse und der Anwendung von Methoden des maschinellen Lernens."
+    logo: 'images/sections/skills/python.svg'
+    summary: 'Sehr vertraut mit Python Scripts, Datenverarbeitung und -Analyse und der Anwendung von Methoden des maschinellen Lernens.'
 
   - name: Java
-    logo: "images/sections/skills/java.png"
-    summary: "Kenntnisse in der Entwicklung von Softwarelösungen mittels Java sowie JavaFX"
+    logo: 'images/sections/skills/java.png'
+    summary: 'Kenntnisse in der Entwicklung von Softwarelösungen mittels Java sowie JavaFX'
+
+  - name: C#
+    logo: 'images/sections/skills/csharp.png'
+    summary: 'Erfahren im Einsatz von C# Scripten in Unity Anwendungen für die Entwicklung von Mobile Apps und Virtual Reality Anwendungen'
 
   - name: Angular
-    logo: "/images/sections/skills/angular.png"
-    summary: "Fähigkeit zur Bereitstellung von Fullstack-Webanwendungen unter Verwendung des MEAN-Stacks und insbesondere von Angular"
-    url: "https://angular.io/"
+    logo: '/images/sections/skills/angular.png'
+    summary: 'Fähigkeit zur Bereitstellung von Fullstack-Webanwendungen unter Verwendung des MEAN-Stacks und insbesondere von Angular'
+    url: 'https://angular.io/'
+
+  - name: React
+    logo: '/images/sections/skills/react.svg'
+    summary: 'Erfahren in der Anwendung von React im Frontendbereich sowie in MVC Lösungen im MERN stack'
+    url: 'https://reactjs.org/'
+
+  - name: Vue
+    logo: '/images/sections/skills/vue.png'
+    summary: 'Vertraut mit dem Vue Framework als Frontend Anwendung'
+    url: 'https://vuejs.org/'
 
   - name: Spring Boot
-    logo: "/images/sections/skills/springboot.png"
-    summary: "Erfahren in der Anwendung von Spring Boot zur Bereitstellung von MVC Lösungen"
-    url: "https://spring.io/"
+    logo: '/images/sections/skills/springboot.png'
+    summary: 'Erfahren in der Anwendung von Spring Boot zur Bereitstellung von MVC Lösungen'
+    url: 'https://spring.io/'
 
   - name: Docker
-    logo: "/images/sections/skills/docker.png"
-    summary: "Sehr Erfahren mit dem Einsatz von Docker sowie docker-compose zur skalierbaren Bereitstellung von Softwarelösungen"
-    url: "https://docker.com/"
+    logo: '/images/sections/skills/docker.png'
+    summary: 'Sehr Erfahren mit dem Einsatz von Docker sowie docker-compose zur skalierbaren Bereitstellung von Softwarelösungen'
+    url: 'https://docker.com/'
 
   - name: MongoDB
-    logo: "/images/sections/skills/mongo.png"
-    summary: "Erfahren mit objektorientierten Datenbanken wie MongoDB, für die Bereitstellung einer flexiblen und skalierbaren Datenbank in einer Fullstack-Umgebung"
-    url: "https://mongodb.com"
+    logo: '/images/sections/skills/mongo.png'
+    summary: 'Erfahren mit objektorientierten Datenbanken wie MongoDB, für die Bereitstellung einer flexiblen und skalierbaren Datenbank in einer Fullstack-Umgebung'
+    url: 'https://mongodb.com'
 
   - name: MySQL
-    logo: "/images/sections/skills/mysql.png"
-    summary: "Vertraut mit relationalen Datenbank Lösungen"
-    url: "https://mysql.com"
+    logo: '/images/sections/skills/mysql.png'
+    summary: 'Vertraut mit relationalen Datenbank Lösungen'
+    url: 'https://mysql.com'
 
   - name: Git
-    logo: "images/sections/skills/git.png"
-    summary: "Grosse Erfahrung mit GIT Versionskontrolle sowie dem Einsatz von CI/CD."
-    url: "https://git-scm.com"
+    logo: 'images/sections/skills/git.png'
+    summary: 'Grosse Erfahrung mit GIT Versionskontrolle sowie dem Einsatz von CI/CD.'
+    url: 'https://git-scm.com'
